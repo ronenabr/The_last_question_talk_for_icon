@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="264.80078"
+   height="443.85815"
+   id="svg3928"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="heat_engine.svg">
+  <defs
+     id="defs3930">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4709">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop4711" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0;"
+         offset="1"
+         id="stop4713" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4695">
+      <stop
+         id="stop4697"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4699"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4687">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4689" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4691" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4658">
+      <stop
+         style="stop-color:#1000ff;stop-opacity:1;"
+         offset="0"
+         id="stop4660" />
+      <stop
+         style="stop-color:#004c9f;stop-opacity:0.33123028;"
+         offset="1"
+         id="stop4662" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4606">
+      <stop
+         style="stop-color:#ff001f;stop-opacity:1;"
+         offset="0"
+         id="stop4608" />
+      <stop
+         style="stop-color:#a50037;stop-opacity:1;"
+         offset="1"
+         id="stop4610" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4606"
+       id="linearGradient4614"
+       x1="280"
+       y1="50"
+       x2="260"
+       y2="190"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4658"
+       id="linearGradient4664"
+       x1="270"
+       y1="320"
+       x2="270"
+       y2="470"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4606"
+       id="linearGradient4693"
+       x1="280"
+       y1="50"
+       x2="260"
+       y2="190"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4658"
+       id="linearGradient4707"
+       x1="270"
+       y1="320"
+       x2="270"
+       y2="470"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4709"
+       id="radialGradient4715"
+       cx="300"
+       cy="260"
+       fx="300"
+       fy="260"
+       r="60"
+       gradientTransform="matrix(0.5064844,0.86224912,-3.9127867,2.2983676,1165.3792,-596.25031)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5494505"
+     inkscape:cx="-14.481581"
+     inkscape:cy="283.18319"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1600"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3958"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-159.04297px"
+       originy="-8.3546143px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.86505193;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4737"
+       width="503.03589"
+       height="570.04962"
+       x="-159.04297"
+       y="-77.787231" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-159.04297,-27.787231)">
+    <rect
+       style="opacity:0.86505193;fill:url(#linearGradient4614);fill-opacity:1;stroke:none"
+       id="rect3938"
+       width="207.8156"
+       height="72.283691"
+       x="174.25533"
+       y="37.787231" />
+    <rect
+       style="opacity:0.86505193;fill:url(#linearGradient4664);fill-opacity:1;stroke:none"
+       id="rect3938-8"
+       width="207.8156"
+       height="72.283691"
+       x="175.02837"
+       y="389.36169" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.86505193;fill:url(#radialGradient4715);fill-opacity:1;stroke:none"
+       id="path3966"
+       sodipodi:cx="300"
+       sodipodi:cy="260"
+       sodipodi:rx="60"
+       sodipodi:ry="50"
+       d="m 360,260 a 60,50 0 1 1 -120,0 60,50 0 1 1 120,0 z"
+       transform="translate(-34.767201,-12.097944)" />
+    <path
+       style="fill:url(#linearGradient4693);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 259.66867,110.805 0,74.195 -9.66867,0 17,12 18,-12 -10,0 0,-75 -15,0"
+       id="path3968"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:url(#linearGradient4707);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 258.92044,298.41138 0,74.195 -9.66867,0 17,12 18,-12 -10,0 0,-75 -15,0"
+       id="path3968-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 327.05677,253.93771 74.195,0 0,9.66867 12,-17 -12,-18 0,10 -75,0 0,15"
+       id="path3968-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="285"
+       y="150"
+       id="text4006"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4008"
+         x="285"
+         y="150">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="284"
+       y="346"
+       id="text4006-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4008-4"
+         x="284"
+         y="346">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="350"
+       y="230"
+       id="text4006-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4008-8"
+         x="350"
+         y="230">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="172.22656"
+       y="155"
+       id="text4064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4066"
+         x="172.22656"
+         y="155">חום נכנס</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="167.22656"
+       y="345"
+       id="text4064-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4066-3"
+         x="167.22656"
+         y="345">חום יוצא</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="336.40625"
+       y="275"
+       id="text4064-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4066-1"
+         x="336.40625"
+         y="275">עבודה</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="230.78125"
+       y="75"
+       id="text4064-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4066-2"
+         x="230.78125"
+         y="75">אמבט חם</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;stroke:#ffffff;stroke-width:1.49414134000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4656"
+       sodipodi:cx="255"
+       sodipodi:cy="240"
+       sodipodi:expansion="1"
+       sodipodi:revolution="7.5758452"
+       sodipodi:radius="34.910606"
+       sodipodi:argument="-18.174814"
+       sodipodi:t0="0"
+       d="m 255,240 c 0.54125,0.433 -0.31664,0.94322 -0.71967,0.89959 -1.09219,-0.11823 -1.41524,-1.46447 -1.07951,-2.33893 0.60054,-1.56422 2.56756,-1.9582 3.9582,-1.25943 2.04081,1.02549 2.5152,3.68488 1.43934,5.57746 -1.43397,2.52251 -4.80715,3.07807 -7.19672,1.61925 -3.00703,-1.83576 -3.64394,-5.93175 -1.79917,-8.81597 2.23426,-3.49319 7.05767,-4.21155 10.43524,-1.97909 3.98034,2.63087 4.78024,8.1844 2.159,12.0545 -3.02632,4.46818 -9.31168,5.34966 -13.67376,2.33892 -4.95647,-3.421 -5.9196,-10.43934 -2.51884,-15.29302 3.81514,-5.4451 11.56728,-6.4899 16.91229,-2.69876 5.93396,4.20889 7.06047,12.69544 2.87867,18.53155 -4.60234,6.42302 -13.82375,7.63126 -20.15081,3.05859 -6.91222,-4.99558 -8.20222,-14.95219 -3.23851,-21.77007 5.38864,-7.40154 16.08074,-8.77331 23.38933,-3.41842 7.89095,5.78156 9.34451,17.20936 3.59834,25.00859 -6.17437,8.38043 -18.33806,9.91578 -26.62785,3.77825 -8.86998,-6.56708 -10.48715,-19.46682 -3.95817,-28.24711 6.95972,-9.35958 20.59562,-11.05857 29.86637,-4.13809 9.84923,7.3523 11.63005,21.72447 4.31801,31.48564 -7.74482,10.3389 -22.85335,12.20156 -33.1049,4.49792 -10.82862,-8.13729 -12.77312,-23.98227 -4.67784,-34.72416 8.52973,-11.31837 25.11121,-13.34471 36.34342,-4.85776 11.80814,8.92212 13.91634,26.24017 5.03768,37.96268 -9.31449,12.29793 -27.36916,14.48799 -39.58195,5.21759 -12.78774,-9.70682 -15.05965,-28.49815 -5.3975,-41.2012 10.09914,-13.27757 29.62717,-15.63135 42.82046,-5.57742 13.76741,10.49143 16.20306,30.75621 5.75734,44.43972 -10.88371,14.25727 -31.88526,16.77479 -46.05899,5.93726 -14.74713,-11.27596 -17.34652,-33.01432 -6.11717,-47.67825 3.35965,-4.38722 7.77059,-7.93743 12.76829,-10.29336"
+       transform="matrix(1.6754825,0,0,1.1981701,-160.97672,-41.034016)" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="239.78125"
+       y="431"
+       id="text4064-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4066-2-2"
+         x="239.78125"
+         y="431">אמבט קר</tspan></text>
+  </g>
+</svg>
