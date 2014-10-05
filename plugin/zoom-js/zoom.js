@@ -3,7 +3,7 @@
 	var isEnabled = true;
 
 	document.querySelector( '.reveal' ).addEventListener( 'mousedown', function( event ) {
-		var modifier = ( Reveal.getConfig().zoomKey ? Reveal.getConfig().zoomKey : 'alt' ) + 'Key';
+		var modifier = ( Reveal.getConfig().zoomKey ? Reveal.getConfig().zoomKey : 'ctrl' ) + 'Key';
 
 		if( event[ modifier ] && isEnabled ) {
 			event.preventDefault();
@@ -186,6 +186,7 @@ var zoom = (function(){
 
 				// If an element is set, that takes precedence
 				if( !!options.element ) {
+				    console.log(options.element)
 					// Space around the zoomed in element to leave on screen
 					var padding = 20;
 

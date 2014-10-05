@@ -4,25 +4,27 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>reveal.js - The HTML Presentation Framework</title>
+		<title>השאלה האחרונה</title>
 
 		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-		<meta name="author" content="Hakim El Hattab">
+		<meta name="author" content="Ronen" >
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/default.css" id="theme">
-
+        <link rel="stylesheet" href="css/custom.css">
 		<!-- For syntax highlighting -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
 
 		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
 		<script>
-			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+/*document.write(
+ '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+ */
 		</script>
 
 		<!--[if lt IE 9]>
@@ -32,327 +34,336 @@
 
 	<body>
 
-		<div class="reveal">
 
+
+		<div class="reveal">
+    <span id="overlay-items">
+
+
+      <span class="header">
+        <img height="30" id="tlogo" alt="" src="pics/icon-transparent-inverted.gif">
+
+        <small>
+        <a href="http://http://2014.iconfestival.org.il/" style="color:white;"> 
+        אייקון 2014 - סודות
+        </a></small>
+      </span>
+
+      <span class="header-right">
+        <small>השאלה האחרונה</small>
+      </span>
+      <span class="myfooter">
+      <small> 
+      <a href="http://www.technion.ac.il/~ronen" style="color:white;">רונן אברבנאל</a>
+      </small>
+      </span>
+    </span>
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
-				<section>
-					<h1>Reveal.js</h1>
-					<h3>HTML Presentations Made Easy</h3>
-					<p>
-						<small>Created by <a href="http://hakim.se">Hakim El Hattab</a> / <a href="http://twitter.com/hakimel">@hakimel</a></small>
-					</p>
-				</section>
+			  <section>
+    			  <h1>השאלה האחרונה</h1>
+    			  <h2>מהשד של מקסוול ועד השרייק</h3>
+    			  <h3>מרצה: רונן אברבנאל</h5>
+    			  <img height="100" id="tlogo" alt="" src="pics/icon-transparent-inverted.gif">
+    			  <h5>פסטיבל איקון 2014 - סודות</h5>
+    			  
 
-				<section>
-					<h2>Heads Up</h2>
-					<p>
-						reveal.js is a framework for easily creating beautiful presentations using HTML. You'll need a browser with
-						support for CSS 3D transforms to see it in its full glory.
-					</p>
+			  </section>
+              <section>
+                  <section>
+                  
+                  <p class="righted">
+השאלה האחרונה נשאלה בפעם הראשונה, כבדיחה למחצה, בתאריך 51.5.2061, בשעה שבה האנושות ראתה אור לראשונה.
+השאלה נשאלה כתוצאה מהתערבות על חמישה דולרים בלוגמם כוס משקה, וכך אירע הדבר:
+                  </p>
+                  <p class="righted">...</p>
+                  <div class="fragment"> 
+                  <p class="righted">
+אנרגיית השמש אוחסנה, הפכה את מהותה. מעתה השתמשו בה ישירות בקנה מידה כלל-ארצי. 
+כדור הארץ כיבה את מדורות הפחם, את כורי האורניום המתבקע, ולחץ על כפתור אשר קשר אותה אל תחנה קטנה שקוטרה מייל אחת
+ ואשר סובבה את הארץ כמחצית הדרך שבינה לבין הירחץ הכל על הארץ הונע לע ידי קרניים בלתי נראות של אנרגיית השמש.
+                   </p>
+                   <p class="righted">
+                        ...
+                   </p>
+                   </div>
+                  </section>
+                  <section>
+                  
+                  <p class="righted">
+"הדבר מפליא, כאשר תחשוב על כך," אמר אדל. ... "כל האנרגיה שאי-פעם נוכל לנצלה - נתנה לנו חינם. ... כל האנרגיה שנזקק לה אי-פעם, לעולמים ולעולמי עולמים".
 
-					<aside class="notes">
-						Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-					</aside>
-				</section>
+<div>
+<p class="righted">
+לופוב היטה את ראשו הצידה. הוא נהג כך בשעה שאמר להתנגד, ... "לא לעולמי עולמים", אמר.
+</p>
 
-				<!-- Example of nested vertical slides -->
-				<section>
-					<section>
-						<h2>Vertical Slides</h2>
-						<p>
-							Slides can be nested inside of other slides,
-							try pressing <a href="#" class="navigate-down">down</a>.
-						</p>
-						<a href="#" class="image navigate-down">
-							<img width="178" height="238" src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-						</a>
-					</section>
-					<section>
-						<h2>Basement Level 1</h2>
-						<p>Press down or up to navigate.</p>
-					</section>
-					<section>
-						<h2>Basement Level 2</h2>
-						<p>Cornify</p>
-						<a class="test" href="http://cornify.com">
-							<img width="280" height="326" src="https://s3.amazonaws.com/hakim-static/reveal-js/cornify.gif" alt="Unicorn">
-						</a>
-					</section>
-					<section>
-						<h2>Basement Level 3</h2>
-						<p>That's it, time to go back up.</p>
-						<a href="#/2" class="image">
-							<img width="178" height="238" src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="-webkit-transform: rotate(180deg);">
-						</a>
-					</section>
-				</section>
+<p class="righted">
+“הו לעזאזל, כמעט לנצח. עד שהשמש תכבה, ברט."
+</p>
 
-				<section>
-					<h2>Slides</h2>
-					<p>
-						Not a coder? No problem. There's a fully-featured visual editor for authoring these, try it out at <a href="http://slid.es" target="_blank">http://slid.es</a>.
-					</p>
-				</section>
+<p class="righted">
+"זה אינו לנצח"
+</p>
+</div>
+<p class="righted">
+….
+</p>
 
-				<section>
-					<h2>Point of View</h2>
-					<p>
-						Press <strong>ESC</strong> to enter the slide overview.
-					</p>
-					<p>
-						Hold down alt and click on any element to zoom in on it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Alt + click anywhere to zoom back out.
-					</p>
-				</section>
+<div  class="fragment">
+<p class="righted">
+"... אבל תן נו טריליון שנים והכל יהיה חשוך. האנטרופיה צריכה לגדול עד למקסימום, זה הכל.".
+</p> </div>
+                    
+                  </section>
+                  <section>
+                  
+<div><p class="righted">
+"האם האנושות תהיה מסוגלת באחד הימים מבלי להוציא אנרגיה להחזיר לשמש את נעוריה, לאחר שהשמש תמות מפאת זיקנה" ... "<b>איך אפשר להקטין באופן ניכר את הכמות הכללית של האנטרופיה בתבל</b>"?
+</p><p class="righted">
+מולטיואק השתתק כבר-מינן. פסקו הנצנוצים האיטיים של האורות, הצלילים הרחוקים של ההעברות המתקתקות. 
+</p><p class="righted">
+...
+</p></div>
+<div class="fragment">
+<p class="righted">
+התעורר לפתע הטלטייפ הקשור לחלק זה של מולטיואק וחמש מילים הודפסו: לא מספיק נתונים לתשובה משמעותית.
+</p><p class="righted">
+"אין התערבות," לחש לופוב.
+</p> </div>
+                  </section>
+                  <section>
+                       <h3> 
+                       איך אפשר
+                       <span class="fragment highlight-red"> 
+                       להקטין
+                       </span>
+                        באופן ניכר
+                       <br/>
+                       את הכמות הכללית של
+                       <span class="fragment highlight-red">
+                        אנטרופיה
+                        </span>
+                         ביקום?
+                       </h3>
+                       <p class="fragment">
+                       ולמה, בעצם, אכפת לנו?</p>
+                  </section>
+              </section>
+              <section>
+                <section>
+                    אבל קודם נדבר על 
+                    <b>אנרגיה</b>
+                    .                   
+                </section>
+                <section data-background="pics/water_mill_picture.jpg">
+                    <h2>תחנת מים</h2>
+                    <p class="fragment"> 
+                        <img src="pics/water_mill_illistation.svg" style="background:white">
+                    </p>
+                </section>
+                <section data-background="pics/Escher_Waterfall.jpg">                
+                </section>
+                <section data-background="pics/Stott_Park_Bobbin_Mill_Steam_Engine.jpg">
+                    <h2> מכונות קיטור
+                    </h2>
+                    <div class="fragment tilt">
+                    <img src="pics/AEG_marine_steam_turbine.png">
+                    </div>                    
+                </section>
+                <section>
+                    <h2>מכונת חום</h2>
+                    <img src="pics/heat_engine.svg">
+                </section>
+                <section>
+                <h2>
+                    החוק הראשון של התרמודינמיקה
+                </h2>
+                <div class="fragment current-visible"><img src="pics/fightclub.jpg" style="position:absolute;left:300px"></div>
+                <div class="fragment">
+                <h3>חוק שימור האנרגיה</h3>
+                <h5>
+                אנרגיה = חום - עבודה
+                </h5>
+                
+                <h5>E=ΔQ-W</h5>
+                <img src="pics/heat_engine.svg" class="tilt" style="height:300%;position: absolute;left: 100px; buttom:0px">
+                </div>
+                </section>
+                <section>
+                    <h2>החוק השני של התרמודינמיקה</h2>
+                    <h5>לא תתכן מכונה הממירה אל כל החום 
+                    <br/>
+                    הנשאב מאמבט חום לעבודה
+                    </h5>
+                    <img src="pics/heat_engine.svg" style="height:600px;width:150px;position: absolute;right: 100px; buttom:0px" class="tilt-r" >
+                </section>
+              </section>
+ 
+              <section> 
+              <section id="pm">
+                <h2>מכונות נצח</h2>
+                <span class="fragment"></span>
+                <span class="fragment"></span>
+                <span class="fragment"></span>
+                <span class="fragment"></span>
+                <span class="fragment"></span>
+                <span class="fragment"></span>
+                    
+                <div style="width:600px; height:600px"> 
+                <div id="pmA" ><img src="pics/rad02_arbeit_ges.gif"  class="tilt-r" > </div>
+                <div style="position: absolute; right:150px;" id="pmC" ><img src="pics/1234325886665.preview.jpg" style="height:200px" > </div>
+                
+                <div style="position: absolute; left:0px;" id="pmB" > <img src="pics/201003-PerpetuummobileWasser-thumb-350x458-142.jpg" class="tilt"></div> 
+                
+                </div>
+              </section>
+              <section>
+                <h2>מכונות נצח</h2>
+                <video data-autoplay src="vids/Simpsons - Thermodynamic 2nd Law-SD.mp4" controls></video>
+              </section>
+              <section>
+                 <h2>מכונות נצח מהסוג השני</h2>
+              </section>
+              </section>
+              <section>
+                <section>
+                    <h2>אנטרופיה: הגדרת ביניים</h2>
+                    <h4>אי-סדר</h4>
+                    <img src="pics/order_disorder.svg">
+                </section>
+                <section>
+                    <h2>החוק השני של התרמודינמיקה</h2>
+                    <h3>האנטרופיה של מערכת סגורה לא יכולה לקטון   
+                    <br>
+                     ככל 
+                     שה<span class="fragment highlight-red">זמן
+                      </span>
+                      עובר<h3>
+                </section>
+                <section>
+                    <h2>חץ הזמן</h2>
+                    <p>החוק השני הוא מחוקי הפיסיקה הבודדים המכילים כיוון מוגדר בזמן</p>
+                    <p>מגדיר את <span class="red">חץ הזמן התרמודינמי</span></p>
+                </section>
+                <section>
+                    <h2> שדות אנטי-אנטרופיים </h2>
+                    <img src="pics/Hyperion_cover.jpg" class="fragment roll-in">
 
-				<section>
-					<h2>Works in Mobile Safari</h2>
-					<p>
-						Try it out! You can swipe through the slides and pinch your way to the overview.
-					</p>
-				</section>
+                </section>
+              </section>
+              <section>
+                <section data-transition="none">
+                    <h2>תהליכים הפיכים</h2>                    
+                    <video data-autoplay src="vids/bounce.mkv" controls></video>                                        
 
-				<section>
-					<h2>Marvelous Unordered List</h2>
-					<ul>
-						<li>No order here</li>
-						<li>Or here</li>
-						<li>Or here</li>
-						<li>Or here</li>
-					</ul>
-				</section>
+                </section>
+                <section data-transition="none">
+                    <h2>תהליכים הפיכים</h2>                    
+                    <video data-autoplay src="vids/bounce_reg.mkv" controls></video>                                                                                
+                </section>
+                <section data-transition="none">
+                    <h2>תהליכים הפיכים</h2>                    
+                    <video data-autoplay src="vids/collide.mkv" controls></video>                                                                                
+                </section>                
 
-				<section>
-					<h2>Fantastic Ordered List</h2>
-					<ol>
-						<li>One is smaller than...</li>
-						<li>Two is smaller than...</li>
-						<li>Three!</li>
-					</ol>
-				</section>
+                <section data-transition="none">
+                    <h2>תהליכים הפיכים</h2>                    
+                    <video data-autoplay src="vids/collide_reg.mkv" controls></video>                                                                             
+                </section>              
+                <section>
+                    <h2>תהליכים שאינם הפיכים</h2>                    
+                    <video data-autoplay src="vids/billiard_trig.mkv" controls></video>                                                                            
+                </section>              
+                <section>
+                    <h2>תהליכים שאינם הפיכים</h2>                    
+                    <video data-autoplay src="vids/billiard_trig_reg.mkv" controls></video>                                                                           
+                </section>
+                <section>
+                   <h2>מה מאפיין תהליכים שאינם הפיכים</h2>
+                  <p>הרבה דרגות חופש</p>
+                  <p>הרבה מצבים אפשריים</p>
+                </section>                                              
+              </section>
+              <section>
+               <section>
 
-				<section data-markdown>
-					<script type="text/template">
-						## Markdown support
+                    <img src="pics/billiard.svg" alt="">
+                </section>                   
+               <section>
 
-						For those of you who like that sort of thing. Instructions and a bit more info available [here](https://github.com/hakimel/reveal.js#markdown).
+                    <img src="pics/mixing.svg" alt="">
+                </section>
+                <section>
+                    <h2>אנטרופיה</h2>
+                    <h5>אי סדר</h5>
+                    <p>מספר דרגות החופש של המערכת</p>
+                    <p> <i>S</i> = <i>k<sub>B</sub></i> log <i>W</i> </p>
+                    <img src="pics/BoltzmansGrave.JPG" alt="" style="height:500px">
+                </section>
+                
+                
+                                <section>
+                    <h2>החוק השני של התרמודינמיקה</h2>
+                    
+                        <p>ככל שעובר הזמן, האנטרופיה עולה</p>
+                        
+                        <p>מצבים מסודרים עוברים בצורה ספונטנית למצבים לא-מסודרים.</p>
+                        <img src="pics/soap.png" style="width:180px" class="fragment">
+                    
+                </section>
+                                
+              </section>
+              
+              <section>
+                <section>
+                    <h2>השד של מקסוול</h2>
+                    <img src="pics/maxwells.svg">
+                </section>
+              </section>
+              <section>
+                <section>
+                    
+                    <p class="righted">
+                    
+                    החומר והאנרגיה פסו ואיתם החלל והזמן. אפילו הא.ק. היה קיים רק למען השאלה האחת, האחרונה, אשר לא ענה עליה מעולם...
+                    </p><p class="righted">
+וכך הווה, כי א.ק. למד איך להחזיר את כיוון האנטרופיה אחרונית. אולם לא היה עוד אדם, אששר לו יוכל הא.ק. להשיב מענה על השאלה האחרונה. לא חשוב, התשובה עצמה – בביצועה, תדאג גם לכך.
+ </p><p class="righted">
 
-						```
-						<section data-markdown>
-						  ## Markdown support
-
-						  For those of you who like that sort of thing.
-						  Instructions and a bit more info available [here](https://github.com/hakimel/reveal.js#markdown).
-						</section>
-						```
-					</script>
-				</section>
-
-				<section id="transitions">
-					<h2>Transition Styles</h2>
-					<p>
-						You can select from different transitions, like: <br>
-						<a href="?transition=cube#/transitions">Cube</a> -
-						<a href="?transition=page#/transitions">Page</a> -
-						<a href="?transition=concave#/transitions">Concave</a> -
-						<a href="?transition=zoom#/transitions">Zoom</a> -
-						<a href="?transition=linear#/transitions">Linear</a> -
-						<a href="?transition=fade#/transitions">Fade</a> -
-						<a href="?transition=none#/transitions">None</a> -
-						<a href="?#/transitions">Default</a>
-					</p>
-				</section>
-
-				<section id="themes">
-					<h2>Themes</h2>
-					<p>
-						Reveal.js comes with a few themes built in: <br>
-						<a href="?#/themes">Default</a> -
-						<a href="?theme=sky#/themes">Sky</a> -
-						<a href="?theme=beige#/themes">Beige</a> -
-						<a href="?theme=simple#/themes">Simple</a> -
-						<a href="?theme=serif#/themes">Serif</a> -
-						<a href="?theme=night#/themes">Night</a> <br>
-						<a href="?theme=moon#/themes">Moon</a> -
-						<a href="?theme=solarized#/themes">Solarized</a>
-					</p>
-					<p>
-						<small>
-							* Theme demos are loaded after the presentation which leads to flicker. In production you should load your theme in the <code>&lt;head&gt;</code> using a <code>&lt;link&gt;</code>.
-						</small>
-					</p>
-				</section>
-
-				<section>
-					<h2>Global State</h2>
-					<p>
-						Set <code>data-state="something"</code> on a slide and <code>"something"</code>
-						will be added as a class to the document element when the slide is open. This lets you
-						apply broader style changes, like switching the background.
-					</p>
-				</section>
-
-				<section data-state="customevent">
-					<h2>Custom Events</h2>
-					<p>
-						Additionally custom events can be triggered on a per slide basis by binding to the <code>data-state</code> name.
-					</p>
-					<pre><code data-trim contenteditable style="font-size: 18px; margin-top: 20px;">
-Reveal.addEventListener( 'customevent', function() {
-	console.log( '"customevent" has fired' );
-} );
-					</code></pre>
-				</section>
-
-				<section>
-					<section data-background="#007777">
-						<h2>Slide Backgrounds</h2>
-						<p>
-							Set <code>data-background="#007777"</code> on a slide to change the full page background to the given color. All CSS color formats are supported.
-						</p>
-						<a href="#" class="image navigate-down">
-							<img width="178" height="238" src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-						</a>
-					</section>
-					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png">
-						<h2>Image Backgrounds</h2>
-						<pre><code>&lt;section data-background="image.png"&gt;</code></pre>
-					</section>
-					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" data-background-repeat="repeat" data-background-size="100px">
-						<h2>Repeated Image Backgrounds</h2>
-						<pre><code style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
-					</section>
-				</section>
-
-				<section data-transition="linear" data-background="#4d7e65" data-background-transition="slide">
-					<h2>Background Transitions</h2>
-					<p>
-						Pass reveal.js the <code>backgroundTransition: 'slide'</code> config argument to make backgrounds slide rather than fade.
-					</p>
-				</section>
-
-				<section data-transition="linear" data-background="#8c4738" data-background-transition="slide">
-					<h2>Background Transition Override</h2>
-					<p>
-						You can override background transitions per slide by using <code>data-background-transition="slide"</code>.
-					</p>
-				</section>
-
-				<section>
-					<h2>Clever Quotes</h2>
-					<p>
-						These guys come in two forms, inline: <q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
-						&ldquo;The nice thing about standards is that there are so many to choose from&rdquo;</q> and block:
-					</p>
-					<blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
-						&ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&rdquo;
-					</blockquote>
-				</section>
-
-				<section>
-					<h2>Pretty Code</h2>
-					<pre><code data-trim contenteditable>
-function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-					</code></pre>
-					<p>Courtesy of <a href="http://softwaremaniacs.org/soft/highlight/en/description/">highlight.js</a>.</p>
-				</section>
-
-				<section>
-					<h2>Intergalactic Interconnections</h2>
-					<p>
-						You can link between slides internally,
-						<a href="#/2/3">like this</a>.
-					</p>
-				</section>
-
-				<section>
-					<section id="fragments">
-						<h2>Fragmented Views</h2>
-						<p>Hit the next arrow...</p>
-						<p class="fragment">... to step through ...</p>
-						<ol>
-							<li class="fragment"><code>any type</code></li>
-							<li class="fragment"><em>of view</em></li>
-							<li class="fragment"><strong>fragments</strong></li>
-						</ol>
-
-						<aside class="notes">
-							This slide has fragments which are also stepped through in the notes window.
-						</aside>
-					</section>
-					<section>
-						<h2>Fragment Styles</h2>
-						<p>There's a few styles of fragments, like:</p>
-						<p class="fragment grow">grow</p>
-						<p class="fragment shrink">shrink</p>
-						<p class="fragment roll-in">roll-in</p>
-						<p class="fragment fade-out">fade-out</p>
-						<p class="fragment highlight-red">highlight-red</p>
-						<p class="fragment highlight-green">highlight-green</p>
-						<p class="fragment highlight-blue">highlight-blue</p>
-						<p class="fragment current-visible">current-visible</p>
-						<p class="fragment highlight-current-blue">highlight-current-blue</p>
-					</section>
-				</section>
-
-				<section>
-					<h2>Spectacular image!</h2>
-					<a class="image" href="http://lab.hakim.se/meny/" target="_blank">
-						<img width="320" height="299" src="http://s3.amazonaws.com/hakim-static/portfolio/images/meny.png" alt="Meny">
-					</a>
-				</section>
-
-				<section>
-					<h2>Export to PDF</h2>
-					<p>Presentations can be <a href="https://github.com/hakimel/reveal.js#pdf-export">exported to PDF</a>, below is an example that's been uploaded to SlideShare.</p>
-					<iframe id="slideshare" src="http://www.slideshare.net/slideshow/embed_code/13872948" width="455" height="356" style="margin:0;overflow:hidden;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
-					<script>
-						document.getElementById('slideshare').attributeName = 'allowfullscreen';
-					</script>
-				</section>
-
-				<section>
-					<h2>Take a Moment</h2>
-					<p>
-						Press b or period on your keyboard to enter the 'paused' mode. This mode is helpful when you want to take distracting slides off the screen
-						during a presentation.
-					</p>
-				</section>
-
-				<section>
-					<h2>Stellar Links</h2>
-					<ul>
-						<li><a href="http://slid.es">Try the online editor</a></li>
-						<li><a href="https://github.com/hakimel/reveal.js">Source code on GitHub</a></li>
-						<li><a href="http://twitter.com/hakimel">Follow me on Twitter</a></li>
-					</ul>
-				</section>
-
-				<section>
-					<h1>THE END</h1>
-					<h3>BY Hakim El Hattab / hakim.se</h3>
-				</section>
+והא.ק. אמר “<b>יהי אור!</b>”
+</p>
+                    </p>
+                </section>
+              <section data-background="pics/lightbg.jpg" data-transition="concave">
+                <h1>ויהי אור</h1>
+                <h3 class="fragment">שאלות?</h3>
+              </section>                
+              </section>
+              <section>
+                <h2>מקורות וביבלוגרפיה</h2>
+                <ul>
+                    <li> הציטוטים לקוחים מתוך "השאלה אחרונה" מתוך "מחר כפול תשע" בתרגומה של חנה ברקן. </li>
+                    <li>חלק מתיאור חוקי התרמודינמיקה ומכונות נצח מבוסס על "פרפטום מובילה" של רן לוי, מספריית מעריב</li>
+                    <li> תמונות
+                            <ul>
+                                <li></li>
+                            </ul>
+                    </li>
+                    <li> סרטים:
+                        <ul>
+                        <li></li>
+                        </ul>
+                    </li>
+                </ul>
+              </section>
 
 			</div>
 
 		</div>
 
 		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.min.js"></script>
+		<script src="js/reveal.js"></script>
 
 		<script>
 
@@ -363,13 +374,15 @@ function linkify( selector ) {
 				progress: true,
 				history: true,
 				center: true,
+			    rtl: true,
 
-				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				theme: 'night', // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
 
 				// Parallax scrolling
-				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
-				// parallaxBackgroundSize: '2100px 900px',
+				 parallaxBackgroundImage: 'pics/bg.jpg',
+				 parallaxBackgroundSize: '2100px 900px',
 
 				// Optional libraries used to extend on reveal.js
 				dependencies: [
@@ -381,8 +394,16 @@ function linkify( selector ) {
 					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
 				]
 			});
+			Reveal.configure({
+          keyboard: {
+                13: 'next', // go to the next slide when the ENTER key is pressed
+                8: 'prev',
+                }
+          });  
 
 		</script>
-
+		<script src="js/event_handling/common.js"></script> 
+        <script src="js/event_handling/reveal-to-d3-config.js"></script> 
+        <script src="js/event_handling/reveal-to-d3.js"></script>	
 	</body>
 </html>

@@ -2601,7 +2601,7 @@ var Reveal = (function(){
 
 				if( previousSlide ) {
 					var v = ( previousSlide.querySelectorAll( 'section' ).length - 1 ) || undefined;
-					var h = indexh - 1;
+					var h = indexh + 1;
 					slide( h, v );
 				}
 			}
@@ -2616,7 +2616,7 @@ var Reveal = (function(){
 
 		// Prioritize revealing fragments
 		if( nextFragment() === false ) {
-			availableRoutes().down ? navigateDown() : navigateRight();
+			availableRoutes().down ? navigateDown() : navigateLeft();
 		}
 
 		// If auto-sliding is enabled we need to cue up
