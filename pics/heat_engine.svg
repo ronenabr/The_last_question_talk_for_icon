@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="264.80078"
+   width="378.53027"
    height="443.85815"
    id="svg3928"
    version="1.1"
@@ -130,9 +130,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5494505"
-     inkscape:cx="-94.187257"
-     inkscape:cy="283.18319"
+     inkscape:zoom="1.095627"
+     inkscape:cx="28.720788"
+     inkscape:cy="239.76182"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
@@ -140,7 +140,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="1152"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="10"
@@ -154,8 +154,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-159.04297px"
-       originy="-8.3546143px" />
+       originx="-68.44043px"
+       originy="-8.3546139px" />
   </sodipodi:namedview>
   <metadata
      id="metadata3933">
@@ -174,7 +174,8 @@
      id="layer2"
      inkscape:label="bg"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     transform="translate(90.60254,-4.4531248e-7)">
     <rect
        style="opacity:0.86505193;fill:#000000;fill-opacity:1;stroke:none"
        id="rect4737"
@@ -187,7 +188,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-159.04297,-27.787231)">
+     transform="translate(-68.44043,-27.787231)">
     <rect
        style="opacity:0.86505193;fill:url(#linearGradient4614);fill-opacity:1;stroke:none"
        id="rect3938"
@@ -225,22 +226,23 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 327.05677,253.93771 74.195,0 0,9.66867 12,-17 -12,-18 0,10 -75,0 0,15"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.488;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 327.25221,253.91791 88.13041,0 0,9.64422 14.25385,-16.95701 -14.25385,-17.95449 0,9.97471 -89.0866,0 0,14.96208"
        id="path3968-3-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="285"
-       y="150"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="280"
+       y="170"
        id="text4006"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4008"
-         x="285"
-         y="150">Q</tspan></text>
+         x="280"
+         y="170"
+         style="font-size:45px">Q</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
@@ -251,10 +253,11 @@
          sodipodi:role="line"
          id="tspan4008-4"
          x="284"
-         y="346">Q</tspan></text>
+         y="346"
+         style="font-size:45px">Q</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Sans"
        x="350"
        y="230"
        id="text4006-3"
@@ -262,54 +265,59 @@
          sodipodi:role="line"
          id="tspan4008-8"
          x="350"
-         y="230">W</tspan></text>
+         y="230"
+         style="font-size:45px">W</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="172.22656"
-       y="155"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="75.009766"
+       y="160"
        id="text4064"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4066"
-         x="172.22656"
-         y="155">חום נכנס</tspan></text>
+         x="75.009766"
+         y="160"
+         style="font-size:45px">חום נכנס</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="167.22656"
-       y="345"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="74.853516"
+       y="350"
        id="text4064-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4066-3"
-         x="167.22656"
-         y="345">חום יוצא</tspan></text>
+         x="74.853516"
+         y="350"
+         style="font-size:45px">חום יוצא</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="336.40625"
-       y="275"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Sans"
+       x="320.01562"
+       y="302"
        id="text4064-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4066-1"
-         x="336.40625"
-         y="275">עבודה</tspan></text>
+         x="320.01562"
+         y="302"
+         style="font-size:45px;stroke:#000000;stroke-opacity:1">עבודה</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="230.78125"
-       y="75"
+       x="174.45312"
+       y="85"
        id="text4064-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4066-2"
-         x="230.78125"
-         y="75">אמבט חם</tspan></text>
+         x="174.45312"
+         y="85"
+         style="font-size:50px;stroke:#000000;stroke-opacity:1">אמבט חם</tspan></text>
     <path
        sodipodi:type="spiral"
-       style="fill:none;stroke:#ffffff;stroke-width:1.49414134000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ffffff;stroke-width:1.49414134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path4656"
        sodipodi:cx="255"
        sodipodi:cy="240"
@@ -323,13 +331,14 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="239.78125"
-       y="431"
+       x="173.69922"
+       y="438"
        id="text4064-1-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4066-2-2"
-         x="239.78125"
-         y="431">אמבט קר</tspan></text>
+         x="173.69922"
+         y="438"
+         style="font-size:50px;stroke:#000000;stroke-opacity:1">אמבט קר</tspan></text>
   </g>
 </svg>

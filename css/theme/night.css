@@ -14,15 +14,20 @@ body {
 
 .reveal {
   font-family: "Open Sans", sans-serif;
-  font-size: 30px;
+  font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: #eeeeee; }
+  color: #FAFAFA; 
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+  }
+
 
 ::selection {
   color: white;
   background: #e7ad52;
   text-shadow: none; }
+
 
 /*********************************************
  * HEADERS
@@ -39,10 +44,14 @@ body {
   line-height: 0.9em;
   letter-spacing: -0.03em;
   text-transform: none;
-  text-shadow: none; }
+  text-shadow: -2px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
 
 .reveal h1 {
-  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
+/*  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); */
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+
+  }
 
 /*********************************************
  * LINKS
